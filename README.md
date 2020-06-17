@@ -9,7 +9,7 @@ The source code is based on [STGCN](https://github.com/VeritasYin/STGCN_IJCAI-18
 
 HetETA framework            
 :-------------------------:
-![](https://git.xiaojukeji.com/honghuiting/heteta/raw/master/figs/framework.png)
+![](https://github.com/didi/heteta/raw/master/figs/framework.png)
 
 
 Dependencies
