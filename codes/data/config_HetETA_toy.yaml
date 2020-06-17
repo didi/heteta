@@ -1,0 +1,32 @@
+data:
+  base_dir: data
+  dataset_dir: ../dataset/toy_sample
+  static_dim: 8
+  dynamic_dim: 1
+  per_period: 5
+model:
+  model_dir: data/model/HetETA_toy
+  method: HetETA
+  max_diffusion_step: 2
+  num_nodes: 300
+  num_rnn_layers: 1
+  rnn_units: 11
+  seq_len: 4
+  days: 4
+  weeks: 4
+  road_net_num: 7
+  car_net_num: 1
+  heads_num: 1
+train:
+  base_lr: 0.01
+  lr_decay_ratio: 0.15
+  lr_decay_epoch: 35
+  dropout: 0.0
+  epochs: 100
+  epsilon: 0.005
+  max_grad_norm: 5
+  optimizer: amsgrad
+  patience: 12
+  threshold: 3
+  regular_rate: 0.0001
+  gpu_num: 1
