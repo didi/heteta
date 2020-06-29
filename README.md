@@ -3,7 +3,7 @@ HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arriv
 
 This is basic implementation of our KDD'20 Applied Data Science Track (Oral) paper:
 
-Huiting Hong, Yucheng Lin, Xiaoqing Yang, Zang Li, Jieping Ye, Kung Fu, Zheng Wang, Xiaohu Qie. 2020. HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival.
+Huiting Hong, Yucheng Lin, Xiaoqing Yang, Zang Li, Kung Fu, Zheng Wang, Xiaohu Qie, Jieping Ye. 2020. HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival.
 
 The source code is based on [STGCN](https://github.com/VeritasYin/STGCN_IJCAI-18)
 
